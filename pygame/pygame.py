@@ -221,6 +221,7 @@ while not gameovr:
     scr(e)
     
     pygame.display.update()
-time.sleep(2)
+
 pygame.quit()
+time.sleep(2)
 quit()
